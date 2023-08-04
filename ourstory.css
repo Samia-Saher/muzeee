@@ -1,0 +1,44 @@
+.ginza{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#txt{
+    position: relative;
+
+}
+#text{
+    position: absolute;
+    left: 450px;
+    top: 350px;
+    font-family: Calisto MT;
+    bottom: 100px;
+    font-size: 120px;
+}
+.office{
+    height: 600px;
+}
+#handgrl{
+    height: 800px ;
+    width: 550px;
+    padding-top: 100px;
+}
+#heading{
+    padding-top: 240px;
+    font-family: Calisto MT;
+    padding-right: 20px;
+}
+.book{
+    height: 550px;
+    padding-top: 150px;
+}
+#footer{
+    height: 450px;
+    padding-top: 80px;
+}
+i{
+    font-size: 30px;
+    color: aliceblue;
+    padding-top: 20px;
+    
+}

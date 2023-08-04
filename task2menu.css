@@ -1,0 +1,66 @@
+#txt{
+    position: relative;
+
+}
+#text{
+    position: absolute;
+    left: 380px;
+    top: 400px;
+    font-family: Calisto MT;
+    font-size: 120px;
+    
+
+}
+#top{
+    padding-bottom: 150px;
+    padding-top: 100px;
+  }
+  
+  #pasta{
+        width: 550px;
+  }
+  #heading{
+    font-family: Calisto MT;
+  }
+  .stick{
+    width: 560px;
+    
+  }
+  #bowls{
+    padding-top: 80px;
+    padding-bottom: 30px;
+    font-family: Calisto MT;
+  }
+  .contain{
+    padding-top: 30px;
+    height: 800px;
+    font-family:Calisto MT ;
+  }
+  #cake{
+    width: 550px;
+    height: 370x;
+  }
+  #mitha{
+    width: 550px;
+    height: 370px;
+  }
+  .coontain{
+    height: 800px ;
+    padding-top: 60px;
+    padding-bottom: 100px;
+
+  }
+  .book{
+    height: 380px;
+    padding-top: 50px;
+  }
+  #footer{
+    height: 450px;
+    padding-top: 80px;
+  }
+  i{
+    font-size: 30px;
+    color: aliceblue;
+    padding-top: 20px;
+    
+}
